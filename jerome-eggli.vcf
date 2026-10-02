@@ -1,9 +1,9 @@
-﻿BEGIN:VCARD
+BEGIN:VCARD
 VERSION:3.0
-N;CHARSET=UTF-8:Eggli;Jérôme;;;
-FN;CHARSET=UTF-8:Jérôme Eggli
-ORG;CHARSET=UTF-8:Groupe Sidin Hotels
-TITLE;CHARSET=UTF-8:Directeur des opérations
+N:Eggli;Jerome;;;
+FN:Jerome Eggli
+ORG:Groupe Sidin Hotels
+TITLE:Directeur des operations
 TEL;TYPE=CELL:+41796125944
 EMAIL;TYPE=INTERNET,WORK:j.eggli@sidinhotels.ch
 URL:https://sidinhotels.ch
